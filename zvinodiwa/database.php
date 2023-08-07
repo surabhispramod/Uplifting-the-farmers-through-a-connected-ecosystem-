@@ -1,0 +1,1 @@
+<?php $db = new mysqli('localhost','root','','agriculture_assistance_presidency');?>
